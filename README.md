@@ -4,4 +4,4 @@
 
 ### Markdown related
 
-- [Lost Branch](bcrisan/tips_and_tricks/master/Git/lost_branch.md)
+- [Lost Branch](https://github.com/bccrisan/tips_and_tricks/blob/master/Git/lost_branch.md)
