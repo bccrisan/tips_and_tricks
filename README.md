@@ -5,3 +5,7 @@
 ### Markdown related
 
 - [Lost Branch](https://github.com/bccrisan/tips_and_tricks/blob/master/Git/lost_branch.md)
+
+### Bash Scripting:
+
+- [GNU Parallel Cheat Sheet](https://www.gnu.org/software/parallel/parallel_cheat.pdf)
